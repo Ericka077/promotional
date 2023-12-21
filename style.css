@@ -1,0 +1,40 @@
+
+
+body h1 { 
+text-align:center;
+font-size: 40px;
+ }
+
+.first {
+	border: 3px solid  #F1B72E;
+	border-radius: 1em;
+	background-color: black;
+	text-align: center;
+	font-size: 17px;
+	padding:18px;
+	color: white;
+}
+
+.first img {
+	width: 1000px;
+	padding-bottom: 3em;
+}
+
+.vid {
+	border: dotted white 2px;
+	width: 560px;
+	margin: 4em;
+	margin-left: 30%;
+	text-align: center;
+}
+.second {
+	border: 3px solid;
+	border-radius: 1em;
+	border-color: #F1B72E;
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 18px;
+	font-size: 17px;
+
+}
